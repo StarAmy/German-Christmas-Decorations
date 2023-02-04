@@ -20,7 +20,7 @@
       "Item":  
       {
          "Type": "DGAItem",
-         "Value": "staramy.christmas/Christmas Deer"
+         "Value": "StarAmy.Christmas/Christmas Deer"
       }
    },
    {
@@ -42,7 +42,7 @@
       "Item":  
       {
          "Type": "DGAItem",
-         "Value": "staramy.christmas/Nutcracker"
+         "Value": "StarAmy.Christmas/Nutcracker"
       }
    },
    {
@@ -64,7 +64,7 @@
       "Item":  
       {
          "Type": "DGAItem",
-         "Value": "staramy.christmas/Wreath"
+         "Value": "StarAmy.Christmas/Wreath"
       }
    },
    {
@@ -86,7 +86,7 @@
       "Item":  
       {
          "Type": "DGAItem",
-         "Value": "staramy.christmas/Santa"
+         "Value": "StarAmy.Christmas/Santa"
       }
    },
    {
@@ -108,7 +108,7 @@
       "Item":  
       {
          "Type": "DGAItem",
-         "Value": "staramy.christmas/Christmas Pyramid"
+         "Value": "StarAmy.Christmas/Christmas Pyramid"
       }
    },
    {
@@ -131,7 +131,7 @@
       "Item":  
       {
          "Type": "DGAItem",
-         "Value": "staramy.christmas/Inverted Christmas Tree"
+         "Value": "StarAmy.Christmas/Inverted Christmas Tree"
       }
    },
    {
@@ -153,7 +153,7 @@
       "Item":  
       {
          "Type": "DGAItem",
-         "Value": "staramy.christmas/Cuckoo Clock"
+         "Value": "StarAmy.Christmas/Cuckoo Clock"
       }
    },
 
@@ -178,7 +178,7 @@
       "Item":  
       {
          "Type": "DGAItem",
-         "Value": "staramy.christmas/Christmas Market Stall (1 of 3)"
+         "Value": "StarAmy.Christmas/Christmas Market Stall (1 of 3)"
       }
    },
     {
@@ -201,7 +201,7 @@
       "Item":  
       {
          "Type": "DGAItem",
-         "Value": "staramy.christmas/Christmas Market Stall (2 of 3)"
+         "Value": "StarAmy.Christmas/Christmas Market Stall (2 of 3)"
       }
    },
     {
@@ -224,7 +224,7 @@
       "Item":  
       {
          "Type": "DGAItem",
-         "Value": "staramy.christmas/Christmas Market Stall (3 of 3)"
+         "Value": "StarAmy.Christmas/Christmas Market Stall (3 of 3)"
       }
    },
 ]
