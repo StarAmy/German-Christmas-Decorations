@@ -1,0 +1,230 @@
+[
+
+   {
+      "$ItemType": "Furniture",
+      "ID": "Christmas Deer",
+      "Type": "Lamp",
+      "Configurations": [
+         {
+            "Texture": "assets/deer.png:0 ",
+            "NightTexture": "assets/deer.png:1",
+            "DisplaySize": { "X": 2, "Y": 2 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 500,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.christmas/Christmas Deer"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Nutcracker",
+      "Type": "Decoration",
+      "Configurations": [
+         {
+            "Texture": "assets/nutcracker.png ",
+            "DisplaySize": { "X": 1, "Y": 2 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 200,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.christmas/Nutcracker"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Wreath",
+      "Type": "Painting",
+      "Configurations": [
+         {
+            "Texture": "assets/wreath.png ",
+            "DisplaySize": { "X": 2, "Y": 2 },
+            "CollisionHeight": 2
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 300,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.christmas/Wreath"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Santa",
+      "Type": "Decoration",
+      "Configurations": [
+         {
+            "Texture": "assets/santa.png ",
+            "DisplaySize": { "X": 1, "Y": 2 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 400,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.christmas/Santa"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Christmas Pyramid",
+      "Type": "Decoration",
+      "Configurations": [
+         {
+            "Texture": "assets/pyramid.png:0@20, assets/pyramid.png:1@20",
+            "DisplaySize": { "X": 1, "Y": 2 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 300,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.christmas/Christmas Pyramid"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Inverted Christmas Tree",
+      "Type": "Lamp",
+      "Configurations": [
+         {
+            "Texture": "assets/tree.png ",
+            "NightTexture": "assets/tree.png:1",
+            "DisplaySize": { "X": 2, "Y": 3 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 800,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.christmas/Inverted Christmas Tree"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Cuckoo Clock",
+      "Type": "Painting",
+      "Configurations": [
+         {
+            "Texture": "assets/clock.png:0@1000, assets/clock.png:1@10, assets/clock.png:3@10, assets/clock.png:2@10, assets/clock.png:3@10, assets/clock.png:2@10, assets/clock.png:3@10, assets/clock.png:2@10, assets/clock.png:3@10, assets/clock.png:1@10",
+            "DisplaySize": { "X": 2, "Y": 3 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 800,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.christmas/Cuckoo Clock"
+      }
+   },
+
+
+   {
+      "$ItemType": "Furniture",
+      "ID": "Christmas Market Stall (1 of 3)",
+      "Type": "Lamp",
+      "Configurations": [
+         {
+            "Texture": "assets/market_stall_one.png:0",
+            "NightTexture": "assets/market_stall_one.png:1",
+            "DisplaySize": { "X": 6, "Y": 6 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1200,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.christmas/Christmas Market Stall (1 of 3)"
+      }
+   },
+    {
+      "$ItemType": "Furniture",
+      "ID": "Christmas Market Stall (2 of 3)",
+      "Type": "Lamp",
+      "Configurations": [
+         {
+            "Texture": "assets/market_stall_two.png:0",
+            "NightTexture": "assets/market_stall_two.png:1",
+            "DisplaySize": { "X": 6, "Y": 6 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1200,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.christmas/Christmas Market Stall (2 of 3)"
+      }
+   },
+    {
+      "$ItemType": "Furniture",
+      "ID": "Christmas Market Stall (3 of 3)",
+      "Type": "Lamp",
+      "Configurations": [
+         {
+            "Texture": "assets/market_stall_three.png:0@20, assets/market_stall_three.png:1@20",
+            "NightTexture": "assets/market_stall_three.png:2@20, assets/market_stall_three.png:3@20",
+            "DisplaySize": { "X": 6, "Y": 6 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1200,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.christmas/Christmas Market Stall (3 of 3)"
+      }
+   },
+]
